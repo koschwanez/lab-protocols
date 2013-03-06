@@ -29,3 +29,5 @@
 16. Incubate the plates at 30 &deg;C until single colonies are seen (usually 1.5 - 2 days).
 17. Pick single colonies and streak out on selective plates to ensure the colony is clonal.
 
+Notes
+- G. Wildenberg heat shocks at 30 &deg;C for 20 min and then 42 &deg;C for 10 min with similar results.
