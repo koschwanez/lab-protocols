@@ -2,7 +2,7 @@
 ### Koschwanez, Wildenberg modified from CSH protocal
 
 1. Spin down cells and discard supernatant.
-2. To the pellet add 50 &mu;l of 1% Zymolyase in 0.1 M, pH 8.0 NaEDTA. Mix and incubate at 37 &deg;C for 30 min to 1 hour. 
+2. To the pellet add 250 &mu;l of 1% Zymolyase in 0.1 M, pH 8.0 NaEDTA. Mix and incubate at 37 &deg;C for 30 min to 1 hour. 
 3. Add 50 &mu;l of 0.20 M NaEDTA, 0.40 M pH 8.0 Tris, 2% SDS. Mix and incubate at 65 &deg;C for 30 min.
 4. Add 63 &mu;l of 5 M potassium acetate. Mix and incubate on ice for 30 min.
 5. Spin down sample for 10 min on max speed. The DNA is in the supernatant. Transfer 300 &mu;l of the supernatant to a new tube.
